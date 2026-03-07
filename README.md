@@ -15,7 +15,7 @@ Data Flow
 Source Data (CSV) → Snowflake (Staging) → Bronze Layer → Silver Layer → Gold Layer
 　　　　　　　　　　　　　　　　　　　　　　　　　↓　　　　　　↓　　　　　↓
 　　　　　　　　　　　　　　　　　　　　　　  
-                                Raw Tables　 Cleaned Data　 Analytics
+                                                  Raw Tables　 Cleaned Data　 Analytics
 
 ---
 Technology Stack
