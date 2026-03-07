@@ -28,8 +28,6 @@ Data Source: Local CSV Files
 
 Version Control: Git
 
-Python: 3.12+
-
 ---
 Key dbt Features
 
@@ -76,10 +74,8 @@ obt (One Big Table) – Denormalized fact table joining bookings, listings, and 
 
 fact – Fact table for dimensional modeling
 
-Ephemeral models for intermediate transformations
-
 ---
-Snapshots (SCD Type 2)
+Snapshots (SCD Type 2) --> SOOON
 
 Slowly Changing Dimensions to track historical changes:
 
