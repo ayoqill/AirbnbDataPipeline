@@ -44,7 +44,9 @@ Testing and documentation
 
 ---
 📊 Data Model
+
 Medallion Architecture
+
 🥉 Bronze Layer (Raw Data)
 
 Raw data ingested from staging with minimal transformations:
