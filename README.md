@@ -75,6 +75,15 @@ obt (One Big Table) – Denormalized fact table joining bookings, listings, and 
 fact – Fact table for dimensional modeling
 
 ---
+
+<img width="1905" height="927" alt="dbt graph real" src="https://github.com/user-attachments/assets/8fa6598f-4cc0-4612-887b-2613b25bf7ab" />
+
+<img width="1901" height="888" alt="snowflake" src="https://github.com/user-attachments/assets/15a1f5d6-cd87-46a1-a362-845a922cb90a" />
+
+<img width="1872" height="893" alt="snowflake2" src="https://github.com/user-attachments/assets/f0752642-4cab-4030-b584-09301de1e809" />
+
+
+---
 Snapshots (SCD Type 2) --> SOOON
 
 Slowly Changing Dimensions to track historical changes:
